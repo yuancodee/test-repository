@@ -102,7 +102,7 @@ bintray {
     configurations = ['archives']
     pkg {
         repo = "first-repository"
-        name = "firstAndroidRepo" // #CONFIG# project name in jcenter
+        name = "common" // #CONFIG# project name in jcenter
         websiteUrl = siteUrl
         vcsUrl = gitUrl
         licenses = ["Apache-2.0"]
