@@ -13,10 +13,7 @@ import android.util.Log;
 
 
 /**
- * author Mustafa Ferhan Akman
  * Create a simple and more understandable Android logs.
- *
- * @date 21.06.2012
  */
 
 public class DebugLog {
